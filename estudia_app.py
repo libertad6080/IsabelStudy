@@ -2,7 +2,7 @@
 """Study Buddy v2: sube un tema (ZIP de imágenes) y Gemini genera 3 niveles que, juntos, cubren TODO el tema.
 Se desbloquea el siguiente nivel aprobando el test. Ejecutar:  streamlit run estudia_app.py
 (usa la misma GOOGLE_API_KEY de .streamlit/secrets.toml que IAG.py)"""
-import base64, difflib, io, json, math, random, re, shutil, time, unicodedata, zipfile, os
+import hmac, base64, difflib, io, json, math, random, re, shutil, time, unicodedata, zipfile, os
 import xml.etree.ElementTree as ET
 from html.parser import HTMLParser
 from pathlib import Path
@@ -12,6 +12,24 @@ from openai import OpenAI
 from PIL import Image
 
 st.set_page_config(page_title="Study Buddy", page_icon="🎓", layout="wide")
+
+
+def _login():
+    """Pide usuario y contraseña si APP_USER y APP_PASSWORD están en secrets (en local, sin secrets, no pide nada)."""
+    try: u, p = str(st.secrets.get("APP_USER", "")), str(st.secrets.get("APP_PASSWORD", ""))
+    except Exception: u = p = ""
+    if not (u and p) or st.session_state.get("_auth"): return
+    st.title("🎓 Study Buddy")
+    with st.form("login"):
+        uu, pp = st.text_input("Usuario"), st.text_input("Contraseña", type="password")
+        if st.form_submit_button("Entrar"):
+            if hmac.compare_digest(uu.strip().encode(), u.encode()) and hmac.compare_digest(pp.encode(), p.encode()):
+                st.session_state["_auth"] = True; st.rerun()
+            st.error("Usuario o contraseña incorrectos")
+    st.stop()
+
+
+_login()
 
 BASE = Path(__file__).parent / "temas"
 BASE.mkdir(exist_ok=True)
@@ -50,7 +68,10 @@ def llm(messages, max_tokens=4000, as_json=False):
     for intento in range(6):
         try:
             extra = {"reasoning_effort": "minimal"} if reasoning else {}
-            return cli.chat.completions.create(**kw, **extra).choices[0].message.content or ""
+            ch = cli.chat.completions.create(**kw, **extra).choices[0]
+            txt = ch.message.content or ""
+            if as_json and not txt.strip(): raise ValueError(f"Gemini devolvió una respuesta vacía (motivo: {getattr(ch, 'finish_reason', '?')})")
+            return txt
         except Exception as e:
             s = str(e)
             if "429" in s or "RESOURCE_EXHAUSTED" in s: time.sleep(15 * (intento + 1))
@@ -228,21 +249,33 @@ def build_base(slug):
     m, d = load(slug), tdir(slug)
     pages = sorted((d / "pages").glob("*.jpg")); texts, figs = [], []
     BATCH = 6; nb = (len(pages) + BATCH - 1) // BATCH; bar = st.progress(0.0, text="Gemini está leyendo las páginas…")
-    for b in range(nb):
+    def leer(ps):
         content = [{"type": "text", "text": P_BASE}]
-        for k, p in enumerate(pages[b * BATCH:(b + 1) * BATCH], 1):
+        for k, p in enumerate(ps, 1):
             im = Image.open(p); im.thumbnail((1280, 1280))
             content += [{"type": "text", "text": f"PAGE {k}:"}, {"type": "image_url", "image_url": {"url": "data:image/jpeg;base64," + b64(im, 70)}}]
-        for _try in range(3):
-            try: data = parse_json(llm([{"role": "user", "content": content}], max_tokens=10000, as_json=True)); break
-            except Exception as e:
-                if _try == 2: raise RuntimeError(f"Gemini no pudo leer las páginas {b * BATCH + 1}-{min((b + 1) * BATCH, len(pages))} ({e}). Pulsa Reintentar.")
-                time.sleep(5)
-        texts.append(str(data.get("source_text", "")))
-        for f in data.get("figures", []):
-            try: f["page"] = int(f["page"]) + b * BATCH; figs.append(f)
-            except Exception: pass
+        last = None
+        for _try in range(2):
+            try: return parse_json(llm([{"role": "user", "content": content}], max_tokens=12000, as_json=True))
+            except Exception as e: last = e; time.sleep(4)
+        raise last
+    saltadas = []
+    for b in range(nb):
+        grupo = pages[b * BATCH:(b + 1) * BATCH]
+        try: res = [(leer(grupo), b * BATCH)]
+        except Exception:
+            res = []  # el lote falla: se lee página a página
+            for k, p in enumerate(grupo):
+                try: res.append((leer([p]), b * BATCH + k))
+                except Exception as e: saltadas.append((b * BATCH + k + 1, str(e)))
+        for data, off in res:
+            texts.append(str(data.get("source_text", "")))
+            for f in data.get("figures", []):
+                try: f["page"] = int(f["page"]) + off; figs.append(f)
+                except Exception: pass
         bar.progress((b + 1) / nb)
+    if not texts or len(saltadas) > len(pages) // 2:
+        raise RuntimeError("Gemini no pudo leer las páginas: " + "; ".join(f"pág. {n}: {e}" for n, e in saltadas[:3]) + ". Pulsa Reintentar.")
     text = "\n\n".join(texts)
     m["base"] = {"v": VERSION, "source_text": text, "figures": crop_figs(d, figs)}
     m["plan"] = make_plan(text); m["base_ts"] = time.time(); m["levels"] = {}; m["progress"] = {}
