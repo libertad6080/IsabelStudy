@@ -63,7 +63,10 @@ def llm(messages, max_tokens=4000, as_json=False):
 def parse_json(t):
     t = re.sub(r"^```(?:json)?|```$", "", t.strip(), flags=re.M).strip()
     try: return json.loads(t)
-    except Exception: return json.loads(re.search(r"\{.*\}", t, re.S).group(0))
+    except Exception:
+        m = re.search(r"\{.*\}", t, re.S)
+        if not m: raise ValueError("Gemini devolvió una respuesta vacía o sin JSON")
+        return json.loads(m.group(0))
 
 
 def ask_json(prompt, max_tokens, ok):
@@ -224,16 +227,20 @@ def make_plan(text):
 def build_base(slug):
     m, d = load(slug), tdir(slug)
     pages = sorted((d / "pages").glob("*.jpg")); texts, figs = [], []
-    nb = (len(pages) + 9) // 10; bar = st.progress(0.0, text="Gemini está leyendo las páginas…")
+    BATCH = 6; nb = (len(pages) + BATCH - 1) // BATCH; bar = st.progress(0.0, text="Gemini está leyendo las páginas…")
     for b in range(nb):
         content = [{"type": "text", "text": P_BASE}]
-        for k, p in enumerate(pages[b * 10:(b + 1) * 10], 1):
+        for k, p in enumerate(pages[b * BATCH:(b + 1) * BATCH], 1):
             im = Image.open(p); im.thumbnail((1280, 1280))
             content += [{"type": "text", "text": f"PAGE {k}:"}, {"type": "image_url", "image_url": {"url": "data:image/jpeg;base64," + b64(im, 70)}}]
-        data = parse_json(llm([{"role": "user", "content": content}], max_tokens=10000, as_json=True))
+        for _try in range(3):
+            try: data = parse_json(llm([{"role": "user", "content": content}], max_tokens=10000, as_json=True)); break
+            except Exception as e:
+                if _try == 2: raise RuntimeError(f"Gemini no pudo leer las páginas {b * BATCH + 1}-{min((b + 1) * BATCH, len(pages))} ({e}). Pulsa Reintentar.")
+                time.sleep(5)
         texts.append(str(data.get("source_text", "")))
         for f in data.get("figures", []):
-            try: f["page"] = int(f["page"]) + b * 10; figs.append(f)
+            try: f["page"] = int(f["page"]) + b * BATCH; figs.append(f)
             except Exception: pass
         bar.progress((b + 1) / nb)
     text = "\n\n".join(texts)
