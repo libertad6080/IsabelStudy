@@ -1,0 +1,949 @@
+{
+ "name": "The Cell",
+ "npages": 12,
+ "created": 1794915527.006987,
+ "base": {
+  "v": 2,
+  "source_text": "## What are cells\nCells are the basic units of life.\nAll living things are made up of one or more cells and carry out three basic processes: Nutrition, Reproduction and interaction:\n- Nutrition: Living things need energy to stay alive. To obtain it, they eat different kinds of food.\n- Interaction: Living things detect changes in their environment and respond to them.\n- Reproduction: All living things are able to copy themselves in order to secure their DNA for the future.\nMost of them are very small, they can only be seen through a microscope but they still can differ in size.\nFor example, brain cells, known as neurons, are much bigger than red blood cells.\nCells can also differ in shape. They can be round, elongated, flat, star-shaped, etc.\nOur body is made up of different cells\n\n## Types of cells\nTypes of cells: Eukaryotic and Prokaryotic\n- Eukaryotic: It has a nucleus. The DNA (instructions for cells) is in the nucleus. Multicellular or unicellular organisms. Examples: animals and plants.\n- Prokaryotic: It doesn't have a nucleus. The DNA is floating in the cytoplasm. Unicellular organisms. Examples: bacteria.\n\n## Parts of a cell\n- Membrane: A thin layer that surrounds and protects the cell.\n- Nucleus: The nucleus controls the activities of the cell and contains the DNA.\n- Cytoplasm: A jelly-like substance, mostly made of water, that contains the organelles.\n- Organelles: An organelle is a tiny cellular structure that performs specific functions within a cell. Organelles are embedded within the cytoplasm. In more complex cells, organelles are often enclosed by their own membrane.\n\n## Organelles and their functions\n- Organelle: Nucleus. Responsible for: Housing DNA, \"Brain\" of the cell.\n- Organelle: Mitochondria. Responsible for: Energy production, \"powerhouse\" of the cell.\n- Organelle: Golgi apparatus. Responsible for: Sorting, packaging and transport of proteins.\n- Organelle: Endoplasmic reticulum. Responsible for: Carries proteins through the cell.\n- Organelle: Chloroplast. Responsible for: Photosynthesis, only present in plants.\n- Organelle: Flagellum. Responsible for: Locomotion and sensory functions.\n- Organelle: Vacuole. Responsible for: Storage.\n- Organelle: Lysosome. Responsible for: Digestion of large molecules.\n- Organelle: Centrioles. Responsible for: Cell division.\n- Organelle: Ribosome. Responsible for: Makes proteins.\n\nParts of the cell: Mitochondria\nMitochondria receive the nutrients and oxygen, and it make the energy the cell needs.\n\nLysosomes\nThey get rid of waste material from the cell. They can also destroy bacteria and viruses.\n\nRibosomes\nRibosomes make proteins for the cells. Do you remember why proteins are important? They repair any damage caused.\n\nGolgi body\nIt sorts, packages and transports proteins inside and outside the cell. It is the Amazon of the cell.\n\nVacuole\nBefore the cell needs the nutrients, what happens with them? And where is the waste? They are in the vacuole. It is a place where the cell stores food, water, and waste.\n\n## Animal and plant cells\nBoth animal and plant cells have 3 main parts: Membrane, Nucleus and Cytoplasm (with organelles).\nAnimal and plant cells are different:\n- Plant cells have specialised organelles called chloroplasts.\n- Chloroplasts absorb sunlight and contain chlorophyll (which gives plants their green color).\n- Plant cells are usually larger and more regular in shape. Plant cells have a rigid cell wall.\n- Plant cells usually have only one big vacuole, while animal cells have many tiny vacuoles (called vesicles).\nPlant cell: Chloroplasts\nChloroplasts help plants carry out photosynthesis. Inside the chloroplasts, chlorophyll captures energy from sunlight.\n\nAnimal cells are mostly round and irregular in shape while plant cells have rectangular shapes.\nPlant cells have a rigid cell wall that surrounds the cell membrane and gives them their shape.\n\n## Living Things Organization\n\nMulticellular living things are made up of different types of cells.\n\nCells: The cells work together at different levels.\n\nA tissue is a group of cells with a function.\n\nAn organ is a group of tissues with a common function.\n\nIn a unicellular living thing, such as a bacterium, there is only the first level of organization, the cell. This one cell has to carry out all the functions of the living thing.\n\nMulticellular living things are made up of different cells. These are called levels of organisation.\n\nTissues: Groups of the same type of cells join together to form tissues. Animals have muscle tissue, which consists of muscle cells. Plants have an epidermis - the tissue that covers leaves - which consists of epidermal cells.\n\nOrgans: Tissues join together to form organs. Tissues in organs work together to perform a common function. Muscles, bones, the heart and the lungs are animal organs. Leaves and flowers are plant organs.\n\nSystems: Organs are grouped to form systems. Organs in systems work together to perform a common function such as moving our body or obtaining the nutrients we need to live.\n\nOrganisms: Finally, all the different systems work together to form an organism, a living thing.\n\n## Exercise 5: Unit 1 Challenge\n\nA. Circle the correct answer.\n1. Which organelle controls the cell?\na) Ribosome\nb) Nucleus\nc) Vacuole\n\n2. Which organelle produces energy?\na) Mitochondria\nb) Golgi apparatus\nc) Lysosome\n\n3. Which cells have chloroplasts?\na) Animal cells\nb) Plant cells\nc) Blood cells\n\n4. Which organisms have only one cell?\na) Multicellular organisms\nb) Unicellular organisms\nc) Plants\n\n5. Which level comes after tissues?\na) Systems\nb) Organs\nc) Organism\n\nB. Write TRUE or FALSE.\n1. Animal cells have a cell wall.\n2. Plant cells have chloroplasts.\n3. Lysosomes remove waste.\n4. Ribosomes make proteins.\n5. Systems are made of organs.\n\nC. Write one sentence about each concept.\nCell:\nNucleus:\nPlant cell:\nOrganism:",
+  "figures": [
+   {
+    "file": "000.jpg",
+    "label": "Squirrel eating",
+    "caption": "A squirrel eating corn representing nutrition in living things."
+   },
+   {
+    "file": "001.jpg",
+    "label": "Dogs interacting",
+    "caption": "Two dogs interacting with each other."
+   },
+   {
+    "file": "002.jpg",
+    "label": "Starfish reproduction",
+    "caption": "Starfish on a beach representing reproduction."
+   },
+   {
+    "file": "003.jpg",
+    "label": "Cell types diagram",
+    "caption": "Diagram showing different types of cells in the human body."
+   },
+   {
+    "file": "004.jpg",
+    "label": "Unicellular Multicellular",
+    "caption": "Comparison between unicellular and multicellular organisms."
+   },
+   {
+    "file": "005.jpg",
+    "label": "Neural stem cells",
+    "caption": "Microscopic view of neural stem cells."
+   },
+   {
+    "file": "006.jpg",
+    "label": "Muscle cells",
+    "caption": "Microscopic view of muscle cells."
+   },
+   {
+    "file": "007.jpg",
+    "label": "Blood cells",
+    "caption": "Microscopic view of blood cells."
+   },
+   {
+    "file": "008.jpg",
+    "label": "Prokaryotic cell",
+    "caption": "Illustration of a prokaryotic cell."
+   },
+   {
+    "file": "009.jpg",
+    "label": "Eukaryotic cell",
+    "caption": "Illustration of a complex eukaryotic cell."
+   },
+   {
+    "file": "010.jpg",
+    "label": "Animal cell",
+    "caption": "Simple diagram of an animal cell."
+   },
+   {
+    "file": "011.jpg",
+    "label": "Bacterium cell",
+    "caption": "Simple diagram of a bacterial cell."
+   },
+   {
+    "file": "012.jpg",
+    "label": "Cell Tissue Organ",
+    "caption": "Diagram showing the progression from cells to tissues and organs."
+   },
+   {
+    "file": "013.jpg",
+    "label": "Plant Cell Levels",
+    "caption": "Diagram showing plant organization from cells to leaves."
+   },
+   {
+    "file": "014.jpg",
+    "label": "Organization Levels",
+    "caption": "Complete levels of organization from cells and tissues to organs, systems, and organisms."
+   }
+  ]
+ },
+ "levels": {
+  "1": {
+   "summary_md": "## What are cells\nCells are the basic units of life. All living things have cells.\nLiving things do three processes:\n- **Nutrition**: They get energy from food.\n- **Interaction**: They respond to changes.\n- **Reproduction**: They make copies of DNA.\nCells are very small. We use a **microscope** to see them.\nCells have different sizes. **Neurons** are bigger than red blood cells.\nCells have different shapes. They can be round, flat, or star-shaped.\n\n💡 Las células son como los ladrillos de un castillo. Aunque son muy pequeños, se unen para formar todo tu cuerpo, y cada uno tiene una forma diferente según lo que necesite hacer.\n\n## Types of cells\nThere are two types of cells:\n- **Eukaryotic**: It has a **nucleus** with DNA. They can be in animals and plants.\n- **Prokaryotic**: It does not have a nucleus. DNA floats in the **cytoplasm**. Example: **bacteria**.\n\n💡 Piensa en las células eucariotas como una oficina del director donde guardan los papeles importantes (el núcleo). Las procariotas son como una habitación abierta donde los papeles están sobre la mesa.\n\n## Parts of a cell\nA cell has four main parts:\n- **Membrane**: A thin layer that protects the cell.\n- **Nucleus**: It controls the cell and has the DNA.\n- **Cytoplasm**: A jelly liquid with water.\n- **Organelles**: Tiny structures that do specific jobs inside the cell.\n\n💡 Imagina que la célula es una casa. La membrana es la puerta con llave, el núcleo es la cocina de control, el citoplasma es el aire de la casa, y los orgánulos son los electrodomésticos que trabajan.",
+   "vocab": [
+    {
+     "en": "Cells",
+     "es": "Células"
+    },
+    {
+     "en": "Nutrition",
+     "es": "Nutrición"
+    },
+    {
+     "en": "Interaction",
+     "es": "Relación"
+    },
+    {
+     "en": "Reproduction",
+     "es": "Reproducción"
+    },
+    {
+     "en": "Microscope",
+     "es": "Microscopio"
+    },
+    {
+     "en": "Eukaryotic",
+     "es": "Eucariota"
+    },
+    {
+     "en": "Prokaryotic",
+     "es": "Procariota"
+    },
+    {
+     "en": "Membrane",
+     "es": "Membrana"
+    },
+    {
+     "en": "Nucleus",
+     "es": "Núcleo"
+    },
+    {
+     "en": "Cytoplasm",
+     "es": "Citoplasma"
+    }
+   ],
+   "schemes": [
+    {
+     "title": "What are cells",
+     "instructions_es": "Completa las oraciones sobre qué son las células con las palabras del banco.",
+     "layout": "flow",
+     "bank": [
+      "Nutrition",
+      "neurons",
+      "cells",
+      "DNA",
+      "microscope",
+      "life"
+     ],
+     "rows": [
+      {
+       "text": "Cells are the basic units of ___.",
+       "answer": "life",
+       "hint_es": "Es lo que tienen todos los seres vivos."
+      },
+      {
+       "text": "Living things carry out three basic processes like ___.",
+       "answer": "Nutrition",
+       "hint_es": "Proceso para obtener energía de la comida."
+      },
+      {
+       "text": "Most of them can only be seen through a ___.",
+       "answer": "microscope",
+       "hint_es": "Instrumento para ver cosas muy pequeñas."
+      },
+      {
+       "text": "Brain cells are also known as ___.",
+       "answer": "neurons",
+       "hint_es": "Células que están en tu cerebro."
+      },
+      {
+       "text": "Our body is made up of different ___.",
+       "answer": "cells",
+       "hint_es": "La palabra principal del tema."
+      }
+     ]
+    },
+    {
+     "title": "Types of cells",
+     "instructions_es": "Elige la palabra correcta para completar la información sobre los tipos de células.",
+     "layout": "list",
+     "bank": [
+      "Eukaryotic",
+      "Prokaryotic",
+      "nucleus",
+      "bacteria",
+      "cytoplasm"
+     ],
+     "rows": [
+      {
+       "text": "The two main types are ___ and Prokaryotic.",
+       "answer": "Eukaryotic",
+       "hint_es": "Es el tipo de célula que tiene núcleo."
+      },
+      {
+       "text": "Eukaryotic cells have a ___.",
+       "answer": "nucleus",
+       "hint_es": "Es donde se guarda el ADN."
+      },
+      {
+       "text": "An example of a Prokaryotic organism is ___.",
+       "answer": "bacteria",
+       "hint_es": "Son organismos unicelulares simples."
+      }
+     ]
+    },
+    {
+     "title": "Parts of a cell",
+     "instructions_es": "Completa las frases con las partes de la célula.",
+     "layout": "list",
+     "bank": [
+      "Cytoplasm",
+      "Nucleus",
+      "Membrane",
+      "water",
+      "Organelles"
+     ],
+     "rows": [
+      {
+       "text": "The ___ surrounds and protects the cell.",
+       "answer": "Membrane",
+       "hint_es": "Es una capa fina exterior."
+      },
+      {
+       "text": "The ___ controls the activities of the cell.",
+       "answer": "Nucleus",
+       "hint_es": "Es el jefe de la célula."
+      },
+      {
+       "text": "The ___ is a jelly-like substance.",
+       "answer": "Cytoplasm",
+       "hint_es": "Sustancia gelatinosa dentro de la célula."
+      },
+      {
+       "text": "Cytoplasm is mostly made of ___.",
+       "answer": "water",
+       "hint_es": "Líquido esencial para la vida."
+      },
+      {
+       "text": "Tiny structures inside the cell are called ___.",
+       "answer": "Organelles",
+       "hint_es": "Realizan funciones específicas."
+      }
+     ]
+    }
+   ],
+   "test": [
+    {
+     "section": "What are cells",
+     "q": "What are cells?",
+     "options": [
+      "Metal pieces",
+      "Water drops",
+      "Basic units of life",
+      "Small rocks"
+     ],
+     "answer_idx": 2,
+     "explain_es": "Las células son las unidades básicas de la vida."
+    },
+    {
+     "section": "What are cells",
+     "q": "How many cells are living things made of?",
+     "options": [
+      "Only ten",
+      "One or more",
+      "Only zero",
+      "Always one"
+     ],
+     "answer_idx": 1,
+     "explain_es": "Todos los seres vivos están formados por una o más células."
+    },
+    {
+     "section": "What are cells",
+     "q": "What are the three basic life processes?",
+     "options": [
+      "Nutrition, interaction, reproduction",
+      "Run, jump, walk",
+      "Sleep, play, eat",
+      "Look, listen, speak"
+     ],
+     "answer_idx": 0,
+     "explain_es": "Los tres procesos básicos son nutrición, interacción y reproducción."
+    },
+    {
+     "section": "What are cells",
+     "q": "Why do living things need nutrition?",
+     "options": [
+      "To change color",
+      "To grow hair",
+      "To get energy",
+      "To sleep more"
+     ],
+     "answer_idx": 2,
+     "explain_es": "Los seres vivos necesitan energía para mantenerse vivos a través de la nutrición."
+    },
+    {
+     "section": "What are cells",
+     "q": "What do living things do in interaction?",
+     "options": [
+      "Detect and respond to changes",
+      "Only sleep all day",
+      "Make new food",
+      "Fly in the sky"
+     ],
+     "answer_idx": 0,
+     "explain_es": "La interacción significa detectar cambios en el entorno y responder a ellos."
+    },
+    {
+     "section": "What are cells",
+     "q": "Why do living things reproduce?",
+     "options": [
+      "To run very fast",
+      "To make water",
+      "To get cold",
+      "To secure their DNA"
+     ],
+     "answer_idx": 3,
+     "explain_es": "La reproducción permite copiar el ADN para el futuro."
+    },
+    {
+     "section": "What are cells",
+     "q": "How can we see most cells?",
+     "options": [
+      "With a big mirror",
+      "With sunglasses",
+      "With our eyes",
+      "With a microscope"
+     ],
+     "answer_idx": 3,
+     "explain_es": "La mayoría de las células son muy pequeñas y solo se ven con un microscopio."
+    },
+    {
+     "section": "What are cells",
+     "q": "What are brain cells called?",
+     "options": [
+      "Skin cells",
+      "Bone cells",
+      "Neurons",
+      "Red cells"
+     ],
+     "answer_idx": 2,
+     "explain_es": "Las células del cerebro se conocen como neuronas."
+    },
+    {
+     "section": "What are cells",
+     "q": "Can cells have different shapes?",
+     "options": [
+      "No, only squares",
+      "Yes, only cubes",
+      "No, only triangles",
+      "Yes, round, flat, star-shaped"
+     ],
+     "answer_idx": 3,
+     "explain_es": "Las células pueden tener diferentes formas como redondas, planas o en forma de estrella."
+    },
+    {
+     "section": "Types of cells",
+     "q": "What are the two main types of cells?",
+     "options": [
+      "Hot and cold",
+      "Eukaryotic and Prokaryotic",
+      "Big and small",
+      "Red and blue"
+     ],
+     "answer_idx": 1,
+     "explain_es": "Los dos tipos de células son eucariotas y procariotas."
+    },
+    {
+     "section": "Types of cells",
+     "q": "Does a Eukaryotic cell have a nucleus?",
+     "options": [
+      "Never",
+      "No",
+      "Only sometimes",
+      "Yes"
+     ],
+     "answer_idx": 3,
+     "explain_es": "La célula eucariota tiene un núcleo donde está el ADN."
+    },
+    {
+     "section": "Types of cells",
+     "q": "Give an example of Eukaryotic cells.",
+     "options": [
+      "Only rocks",
+      "Only bacteria",
+      "Animals and plants",
+      "Only water"
+     ],
+     "answer_idx": 2,
+     "explain_es": "Los animales y las plantas son ejemplos de organismos con células eucariotas."
+    },
+    {
+     "section": "Types of cells",
+     "q": "Does a Prokaryotic cell have a nucleus?",
+     "options": [
+      "Always",
+      "Yes",
+      "No",
+      "Two nuclei"
+     ],
+     "answer_idx": 2,
+     "explain_es": "La célula procariota no tiene núcleo y el ADN flota en el citoplasma."
+    },
+    {
+     "section": "Types of cells",
+     "q": "What is an example of a Prokaryotic cell?",
+     "options": [
+      "Animals",
+      "Plants",
+      "Bacteria",
+      "Trees"
+     ],
+     "answer_idx": 2,
+     "explain_es": "Las bacterias son un claro ejemplo de células procariotas."
+    },
+    {
+     "section": "Parts of a cell",
+     "q": "What is the cell membrane?",
+     "options": [
+      "A long tail",
+      "A hard bone",
+      "A big green leaf",
+      "A thin layer that protects"
+     ],
+     "answer_idx": 3,
+     "explain_es": "La membrana es una capa fina que rodea y protege la célula."
+    },
+    {
+     "section": "Parts of a cell",
+     "q": "What does the nucleus do?",
+     "options": [
+      "Controls activities and has DNA",
+      "Pushes water out",
+      "Makes food only",
+      "Changes cell color"
+     ],
+     "answer_idx": 0,
+     "explain_es": "El núcleo controla las actividades de la célula y contiene el ADN."
+    },
+    {
+     "section": "Parts of a cell",
+     "q": "What is the cytoplasm?",
+     "options": [
+      "A hard outer wall",
+      "A bright red light",
+      "A dry brown dirt",
+      "A jelly-like substance with water"
+     ],
+     "answer_idx": 3,
+     "explain_es": "El citoplasma es una sustancia gelatinosa, hecha sobre todo de agua, que contiene orgánulos."
+    },
+    {
+     "section": "Parts of a cell",
+     "q": "What is an organelle?",
+     "options": [
+      "A tiny cellular structure with a function",
+      "A cell wall",
+      "A big animal organ",
+      "A cell nucleus"
+     ],
+     "answer_idx": 0,
+     "explain_es": "Un orgánulo es una estructura celular diminuta que realiza funciones específicas."
+    }
+   ],
+   "journey": {
+    "0": {
+     "jv": 3,
+     "scene": "Animal Cell",
+     "emoji": "🦠",
+     "story_es": "Érase una vez, en el interior de nuestro cuerpo, diminutas células que trabajan juntas como una gran familia para mantenernos vivos y sanos.",
+     "traveler": "🏃‍♀️",
+     "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 800 520\"><defs>\n<linearGradient id=\"gShell\" x1=\"0\" y1=\"0\" x2=\"1\" y2=\"1\"><stop offset=\"0\" stop-color=\"#46d3bf\" /><stop offset=\"1\" stop-color=\"#157a76\" /></linearGradient>\n<radialGradient id=\"gCut\" cx=\".42\" cy=\".38\" r=\".75\"><stop offset=\"0\" stop-color=\"#6f56a8\" /><stop offset=\"1\" stop-color=\"#3a2b63\" /></radialGradient>\n<radialGradient id=\"gNuc\" cx=\".35\" cy=\".3\" r=\".8\"><stop offset=\"0\" stop-color=\"#fff6a8\" /><stop offset=\".6\" stop-color=\"#f5cd4a\" /><stop offset=\"1\" stop-color=\"#d9a21f\" /></radialGradient>\n<radialGradient id=\"gNcl\" cx=\".35\" cy=\".3\" r=\".8\"><stop offset=\"0\" stop-color=\"#c9f78d\" /><stop offset=\"1\" stop-color=\"#37b24a\" /></radialGradient>\n<linearGradient id=\"gMito\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0\" stop-color=\"#ff9a9a\" /><stop offset=\"1\" stop-color=\"#c64a5c\" /></linearGradient>\n<linearGradient id=\"gGol\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0\" stop-color=\"#ffc88a\" /><stop offset=\"1\" stop-color=\"#ee8a3e\" /></linearGradient>\n<radialGradient id=\"gVes\" cx=\".35\" cy=\".3\" r=\".8\"><stop offset=\"0\" stop-color=\"#d9f3fb\" /><stop offset=\"1\" stop-color=\"#63b9dc\" /></radialGradient>\n<linearGradient id=\"gCen\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0\" stop-color=\"#ff8a8a\" /><stop offset=\"1\" stop-color=\"#bf3b3b\" /></linearGradient>\n<linearGradient id=\"gWall\" x1=\"0\" y1=\"0\" x2=\"1\" y2=\"1\"><stop offset=\"0\" stop-color=\"#a6e08f\" /><stop offset=\"1\" stop-color=\"#5fb36a\" /></linearGradient>\n<radialGradient id=\"gPlantCut\" cx=\".4\" cy=\".35\" r=\".8\"><stop offset=\"0\" stop-color=\"#f3fbe6\" /><stop offset=\"1\" stop-color=\"#cfe9c4\" /></radialGradient>\n<linearGradient id=\"gChl\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0\" stop-color=\"#7ee07a\" /><stop offset=\"1\" stop-color=\"#2d9a43\" /></linearGradient>\n<radialGradient id=\"gCvac\" cx=\".4\" cy=\".3\" r=\".9\"><stop offset=\"0\" stop-color=\"#e6f7fd\" /><stop offset=\"1\" stop-color=\"#86cde8\" /></radialGradient>\n</defs><g id=\"bg\"><ellipse cx=\"400\" cy=\"506\" rx=\"290\" ry=\"12\" fill=\"#000\" opacity=\".12\" /></g><g id=\"memb\"><ellipse cx=\"400\" cy=\"283\" rx=\"338\" ry=\"214\" fill=\"url(#gShell)\" stroke=\"#0f6663\" stroke-width=\"4\" /><path d=\"M120,380 C95,300 130,190 215,125\" fill=\"none\" stroke=\"#fff\" stroke-opacity=\".35\" stroke-width=\"12\" stroke-linecap=\"round\" /><ellipse cx=\"400\" cy=\"262\" rx=\"322\" ry=\"196\" fill=\"none\" stroke=\"#7df0dd\" stroke-width=\"12\" /></g><g id=\"cyto\"><ellipse cx=\"400\" cy=\"262\" rx=\"312\" ry=\"186\" fill=\"url(#gCut)\" /></g><g id=\"nuc\"><g transform=\"translate(410 222) rotate(0) scale(0.92)\"><ellipse rx=\"112\" ry=\"90\" fill=\"url(#gNuc)\" stroke=\"#c28d12\" stroke-width=\"5\" /><circle cx=\"112.0\" cy=\"0.0\" r=\"3.2\" fill=\"#b8820f\" /><circle cx=\"98.9\" cy=\"42.3\" r=\"3.2\" fill=\"#b8820f\" /><circle cx=\"62.6\" cy=\"74.6\" r=\"3.2\" fill=\"#b8820f\" /><circle cx=\"11.7\" cy=\"89.5\" r=\"3.2\" fill=\"#b8820f\" /><circle cx=\"-42.0\" cy=\"83.4\" r=\"3.2\" fill=\"#b8820f\" /><circle cx=\"-85.8\" cy=\"57.9\" r=\"3.2\" fill=\"#b8820f\" /><circle cx=\"-109.6\" cy=\"18.7\" r=\"3.2\" fill=\"#b8820f\" /><circle cx=\"-107.7\" cy=\"-24.8\" r=\"3.2\" fill=\"#b8820f\" /><circle cx=\"-80.6\" cy=\"-62.5\" r=\"3.2\" fill=\"#b8820f\" /><circle cx=\"-34.6\" cy=\"-85.6\" r=\"3.2\" fill=\"#b8820f\" /><circle cx=\"19.4\" cy=\"-88.6\" r=\"3.2\" fill=\"#b8820f\" /><circle cx=\"69.0\" cy=\"-70.9\" r=\"3.2\" fill=\"#b8820f\" /><circle cx=\"102.3\" cy=\"-36.6\" r=\"3.2\" fill=\"#b8820f\" /><ellipse cy=\"8\" rx=\"88\" ry=\"68\" fill=\"#fff6c2\" stroke=\"#e3b53a\" stroke-width=\"3\" /><path d=\"M-68,-22 q7,-10 14,0 t14,0 t14,0\" fill=\"none\" stroke=\"#e0b030\" stroke-width=\"2.6\" stroke-linecap=\"round\" /><path d=\"M-60,34 q7,-10 14,0 t14,0 t14,0\" fill=\"none\" stroke=\"#e0b030\" stroke-width=\"2.6\" stroke-linecap=\"round\" /><path d=\"M20,-42 q7,-10 14,0 t14,0 t14,0\" fill=\"none\" stroke=\"#e0b030\" stroke-width=\"2.6\" stroke-linecap=\"round\" /><path d=\"M24,40 q7,-10 14,0 t14,0 t14,0\" fill=\"none\" stroke=\"#e0b030\" stroke-width=\"2.6\" stroke-linecap=\"round\" /><circle cx=\"6\" cy=\"14\" r=\"36\" fill=\"url(#gNcl)\" stroke=\"#2f9a3a\" stroke-width=\"3\" /><ellipse cx=\"-4\" cy=\"2\" rx=\"13\" ry=\"7\" fill=\"#fff\" opacity=\".6\" transform=\"rotate(-30 -4 2)\" /></g></g><g id=\"mito\"><g transform=\"translate(150 215) rotate(0) scale(1.0)\"><g transform=\"translate(0 0) rotate(-18) scale(1)\"><ellipse rx=\"64\" ry=\"31\" fill=\"url(#gMito)\" stroke=\"#9e2f42\" stroke-width=\"4\" /><ellipse rx=\"55\" ry=\"23\" fill=\"#ffc2c2\" opacity=\".5\" /><path d=\"M-42,-19 q8,9.5 0,19 q-8,9.5 0,19\" fill=\"none\" stroke=\"#a83347\" stroke-width=\"3.4\" stroke-linecap=\"round\" /><path d=\"M-25,-19 q8,9.5 0,19 q-8,9.5 0,19\" fill=\"none\" stroke=\"#a83347\" stroke-width=\"3.4\" stroke-linecap=\"round\" /><path d=\"M-8,-19 q8,9.5 0,19 q-8,9.5 0,19\" fill=\"none\" stroke=\"#a83347\" stroke-width=\"3.4\" stroke-linecap=\"round\" /><path d=\"M9,-19 q8,9.5 0,19 q-8,9.5 0,19\" fill=\"none\" stroke=\"#a83347\" stroke-width=\"3.4\" stroke-linecap=\"round\" /><path d=\"M26,-19 q8,9.5 0,19 q-8,9.5 0,19\" fill=\"none\" stroke=\"#a83347\" stroke-width=\"3.4\" stroke-linecap=\"round\" /><path d=\"M43,-19 q8,9.5 0,19 q-8,9.5 0,19\" fill=\"none\" stroke=\"#a83347\" stroke-width=\"3.4\" stroke-linecap=\"round\" /><ellipse cx=\"-22\" cy=\"-17\" rx=\"24\" ry=\"5\" fill=\"#fff\" opacity=\".4\" /></g><g transform=\"translate(62 -66) rotate(38) scale(0.85)\"><ellipse rx=\"64\" ry=\"31\" fill=\"url(#gMito)\" stroke=\"#9e2f42\" stroke-width=\"4\" /><ellipse rx=\"55\" ry=\"23\" fill=\"#ffc2c2\" opacity=\".5\" /><path d=\"M-42,-19 q8,9.5 0,19 q-8,9.5 0,19\" fill=\"none\" stroke=\"#a83347\" stroke-width=\"3.4\" stroke-linecap=\"round\" /><path d=\"M-25,-19 q8,9.5 0,19 q-8,9.5 0,19\" fill=\"none\" stroke=\"#a83347\" stroke-width=\"3.4\" stroke-linecap=\"round\" /><path d=\"M-8,-19 q8,9.5 0,19 q-8,9.5 0,19\" fill=\"none\" stroke=\"#a83347\" stroke-width=\"3.4\" stroke-linecap=\"round\" /><path d=\"M9,-19 q8,9.5 0,19 q-8,9.5 0,19\" fill=\"none\" stroke=\"#a83347\" stroke-width=\"3.4\" stroke-linecap=\"round\" /><path d=\"M26,-19 q8,9.5 0,19 q-8,9.5 0,19\" fill=\"none\" stroke=\"#a83347\" stroke-width=\"3.4\" stroke-linecap=\"round\" /><path d=\"M43,-19 q8,9.5 0,19 q-8,9.5 0,19\" fill=\"none\" stroke=\"#a83347\" stroke-width=\"3.4\" stroke-linecap=\"round\" /><ellipse cx=\"-22\" cy=\"-17\" rx=\"24\" ry=\"5\" fill=\"#fff\" opacity=\".4\" /></g></g></g></svg>",
+     "parts": [
+      {
+       "id": "memb",
+       "name": "Cell membrane",
+       "emoji": "🚪",
+       "says_en": "I am the friendly door!",
+       "text_en": "I am the outer layer.",
+       "text_es": "Soy como la puerta de una casa que decide quién entra y sale.",
+       "body_en": "I protect the cell and let good things inside.",
+       "body_es": "Protejo la célula y dejo entrar lo bueno.",
+       "clue_en": "I am the outer layer that protects the whole cell."
+      },
+      {
+       "id": "nuc",
+       "name": "Nucleus",
+       "emoji": "👑",
+       "says_en": "I am the brain boss!",
+       "text_en": "I am the control center.",
+       "text_es": "Soy como el jefe que da las órdenes en una fábrica.",
+       "body_en": "I direct all cell activities to keep the body working.",
+       "body_es": "Dirijo todas las actividades para que el cuerpo funcione.",
+       "clue_en": "I am the center that gives orders to the cell."
+      },
+      {
+       "id": "mito",
+       "name": "Mitochondria",
+       "emoji": "⚡",
+       "says_en": "I make the power!",
+       "text_en": "I am the energy maker.",
+       "text_es": "Soy como una pequeña pila que da energía.",
+       "body_en": "I give energy for nutrition and life.",
+       "body_es": "Doy energía para la nutrición y la vida.",
+       "clue_en": "I produce energy for the cell."
+      }
+     ],
+     "fixed": [
+      "memb"
+     ],
+     "lbl": {
+      "memb": [
+       400,
+       476
+      ]
+     },
+     "story": [
+      {
+       "part": "memb",
+       "en": "Food and energy arrive at the cell membrane.",
+       "es": "La comida y la energía llegan a la membrana celular."
+      },
+      {
+       "part": "nuc",
+       "en": "The nucleus receives the signal and gives orders.",
+       "es": "El núcleo recibe la señal y da órdenes."
+      },
+      {
+       "part": "mito",
+       "en": "The mitochondria make energy for the whole cell.",
+       "es": "Las mitocondrias fabrican energía para toda la célula."
+      }
+     ],
+     "outro_es": "¡Así es como nuestras pequeñas células trabajan unidas cada día!"
+    },
+    "1": {
+     "jv": 3,
+     "scene": "Types of cells",
+     "emoji": "🦠",
+     "story_es": "Érase una vez un viaje increíble por el micromundo. Dos tipos de células muy diferentes querían mostrar sus secretos.",
+     "traveler": "🚗",
+     "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 800 520\"><defs><linearGradient id=\"gT0\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0\" stop-color=\"#bfe3ff\"/><stop offset=\"1\" stop-color=\"#6cb4f2\"/></linearGradient><linearGradient id=\"gT1\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0\" stop-color=\"#ffd6d6\"/><stop offset=\"1\" stop-color=\"#ff8c8c\"/></linearGradient><linearGradient id=\"gT2\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0\" stop-color=\"#d3f5d0\"/><stop offset=\"1\" stop-color=\"#7fd67a\"/></linearGradient><linearGradient id=\"gT3\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0\" stop-color=\"#fff1b8\"/><stop offset=\"1\" stop-color=\"#ffd24d\"/></linearGradient><linearGradient id=\"gT4\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0\" stop-color=\"#e4d9ff\"/><stop offset=\"1\" stop-color=\"#a98cf2\"/></linearGradient><linearGradient id=\"gT5\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0\" stop-color=\"#ffd9ee\"/><stop offset=\"1\" stop-color=\"#f58ac2\"/></linearGradient><linearGradient id=\"gT6\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0\" stop-color=\"#ffe0c2\"/><stop offset=\"1\" stop-color=\"#ffa45c\"/></linearGradient><linearGradient id=\"gT7\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0\" stop-color=\"#c9f5ee\"/><stop offset=\"1\" stop-color=\"#5fd8c4\"/></linearGradient><linearGradient id=\"gT8\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0\" stop-color=\"#d8dcff\"/><stop offset=\"1\" stop-color=\"#8e97f0\"/></linearGradient></defs><g id=\"bg\"><rect x=\"10\" y=\"10\" width=\"780\" height=\"500\" rx=\"40\" fill=\"#eef2f7\" stroke=\"#cbd5e1\" stroke-width=\"5\"/></g><g id=\"p1\"><ellipse cx=\"220\" cy=\"241\" rx=\"105\" ry=\"10\" fill=\"#000\" fill-opacity=\".18\"/><rect x=\"115\" y=\"83\" width=\"210\" height=\"150\" rx=\"26\" fill=\"#2f7bc4\"/><rect x=\"115\" y=\"67\" width=\"210\" height=\"150\" rx=\"26\" fill=\"url(#gT0)\" stroke=\"#fff\" stroke-opacity=\".7\" stroke-width=\"3\"/><text x=\"220\" y=\"142\" text-anchor=\"middle\" dominant-baseline=\"central\" font-size=\"82\">🌱</text></g><g id=\"p2\"><ellipse cx=\"580\" cy=\"241\" rx=\"105\" ry=\"10\" fill=\"#000\" fill-opacity=\".18\"/><rect x=\"475\" y=\"83\" width=\"210\" height=\"150\" rx=\"26\" fill=\"#d14a4a\"/><rect x=\"475\" y=\"67\" width=\"210\" height=\"150\" rx=\"26\" fill=\"url(#gT1)\" stroke=\"#fff\" stroke-opacity=\".7\" stroke-width=\"3\"/><text x=\"580\" y=\"142\" text-anchor=\"middle\" dominant-baseline=\"central\" font-size=\"82\">🧠</text></g><g id=\"p3\"><ellipse cx=\"220\" cy=\"461\" rx=\"105\" ry=\"10\" fill=\"#000\" fill-opacity=\".18\"/><rect x=\"115\" y=\"303\" width=\"210\" height=\"150\" rx=\"26\" fill=\"#3d9c3a\"/><rect x=\"115\" y=\"287\" width=\"210\" height=\"150\" rx=\"26\" fill=\"url(#gT2)\" stroke=\"#fff\" stroke-opacity=\".7\" stroke-width=\"3\"/><text x=\"220\" y=\"362\" text-anchor=\"middle\" dominant-baseline=\"central\" font-size=\"82\">🦠</text></g><g id=\"p4\"><ellipse cx=\"580\" cy=\"461\" rx=\"105\" ry=\"10\" fill=\"#000\" fill-opacity=\".18\"/><rect x=\"475\" y=\"303\" width=\"210\" height=\"150\" rx=\"26\" fill=\"#d49b00\"/><rect x=\"475\" y=\"287\" width=\"210\" height=\"150\" rx=\"26\" fill=\"url(#gT3)\" stroke=\"#fff\" stroke-opacity=\".7\" stroke-width=\"3\"/><text x=\"580\" y=\"362\" text-anchor=\"middle\" dominant-baseline=\"central\" font-size=\"82\">📜</text></g></svg>",
+     "parts": [
+      {
+       "id": "p1",
+       "name": "Eukaryotic cell",
+       "emoji": "🌱",
+       "says_en": "I am big and complex!",
+       "text_en": "It is a complex cell.",
+       "text_es": "Es una célula grande y compleja como una casa grande.",
+       "body_en": "It has a nucleus to protect DNA.",
+       "body_es": "Tiene un núcleo para guardar las instrucciones.",
+       "clue_en": "I have a safe room for my DNA."
+      },
+      {
+       "id": "p2",
+       "name": "Nucleus",
+       "emoji": "🧠",
+       "says_en": "I am the boss!",
+       "text_en": "It is the cell brain.",
+       "text_es": "Es el jefe que guarda los planos.",
+       "body_en": "It stores DNA safely.",
+       "body_es": "Guarda el ADN de forma segura.",
+       "clue_en": "I keep the central instructions inside."
+      },
+      {
+       "id": "p3",
+       "name": "Prokaryotic cell",
+       "emoji": "🦠",
+       "says_en": "I am small and free!",
+       "text_en": "It is a simple cell.",
+       "text_es": "Es una célula pequeña y sencilla.",
+       "body_en": "It has no nucleus.",
+       "body_es": "No tiene núcleo cerrado.",
+       "clue_en": "I do not have walls around my DNA."
+      },
+      {
+       "id": "p4",
+       "name": "DNA",
+       "emoji": "📜",
+       "says_en": "I am the secret code!",
+       "text_en": "It is cell instructions.",
+       "text_es": "Son las instrucciones para la vida.",
+       "body_en": "It tells the cell what to do.",
+       "body_es": "Dice a la célula lo que debe hacer.",
+       "clue_en": "I am the secret recipe inside."
+      }
+     ],
+     "fixed": [],
+     "lbl": {},
+     "story": [
+      {
+       "part": "p1",
+       "en": "The traveler visits the big eukaryotic cell.",
+       "es": "El viajero visita la gran célula eucariota."
+      },
+      {
+       "part": "p2",
+       "en": "The nucleus opens up to show the precious DNA.",
+       "es": "El núcleo se abre para mostrar el valioso ADN."
+      },
+      {
+       "part": "p3",
+       "en": "Then the traveler meets the simple prokaryotic cell.",
+       "es": "Luego el viajero conoce a la célula procariota simple."
+      },
+      {
+       "part": "p4",
+       "en": "The DNA floats freely in the cytoplasm.",
+       "es": "El ADN flota libremente por todas partes."
+      }
+     ],
+     "outro_es": "¡Así aprendimos los dos tipos de células que existen!"
+    },
+    "2": {
+     "jv": 3,
+     "scene": "Inside the Cell",
+     "emoji": "🔬",
+     "story_es": "Érase una vez en una pequeña célula, donde todas las partes vivas trabajan juntas como un equipo feliz.",
+     "traveler": "🦠",
+     "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 800 520\"><defs><linearGradient id=\"gT0\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0\" stop-color=\"#bfe3ff\"/><stop offset=\"1\" stop-color=\"#6cb4f2\"/></linearGradient><linearGradient id=\"gT1\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0\" stop-color=\"#ffd6d6\"/><stop offset=\"1\" stop-color=\"#ff8c8c\"/></linearGradient><linearGradient id=\"gT2\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0\" stop-color=\"#d3f5d0\"/><stop offset=\"1\" stop-color=\"#7fd67a\"/></linearGradient><linearGradient id=\"gT3\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0\" stop-color=\"#fff1b8\"/><stop offset=\"1\" stop-color=\"#ffd24d\"/></linearGradient><linearGradient id=\"gT4\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0\" stop-color=\"#e4d9ff\"/><stop offset=\"1\" stop-color=\"#a98cf2\"/></linearGradient><linearGradient id=\"gT5\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0\" stop-color=\"#ffd9ee\"/><stop offset=\"1\" stop-color=\"#f58ac2\"/></linearGradient><linearGradient id=\"gT6\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0\" stop-color=\"#ffe0c2\"/><stop offset=\"1\" stop-color=\"#ffa45c\"/></linearGradient><linearGradient id=\"gT7\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0\" stop-color=\"#c9f5ee\"/><stop offset=\"1\" stop-color=\"#5fd8c4\"/></linearGradient><linearGradient id=\"gT8\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0\" stop-color=\"#d8dcff\"/><stop offset=\"1\" stop-color=\"#8e97f0\"/></linearGradient></defs><g id=\"bg\"><rect x=\"10\" y=\"10\" width=\"780\" height=\"500\" rx=\"40\" fill=\"#eef2f7\" stroke=\"#cbd5e1\" stroke-width=\"5\"/></g><g id=\"p1\"><ellipse cx=\"220\" cy=\"241\" rx=\"105\" ry=\"10\" fill=\"#000\" fill-opacity=\".18\"/><rect x=\"115\" y=\"83\" width=\"210\" height=\"150\" rx=\"26\" fill=\"#2f7bc4\"/><rect x=\"115\" y=\"67\" width=\"210\" height=\"150\" rx=\"26\" fill=\"url(#gT0)\" stroke=\"#fff\" stroke-opacity=\".7\" stroke-width=\"3\"/><text x=\"220\" y=\"142\" text-anchor=\"middle\" dominant-baseline=\"central\" font-size=\"82\">🛡️</text></g><g id=\"p2\"><ellipse cx=\"580\" cy=\"241\" rx=\"105\" ry=\"10\" fill=\"#000\" fill-opacity=\".18\"/><rect x=\"475\" y=\"83\" width=\"210\" height=\"150\" rx=\"26\" fill=\"#d14a4a\"/><rect x=\"475\" y=\"67\" width=\"210\" height=\"150\" rx=\"26\" fill=\"url(#gT1)\" stroke=\"#fff\" stroke-opacity=\".7\" stroke-width=\"3\"/><text x=\"580\" y=\"142\" text-anchor=\"middle\" dominant-baseline=\"central\" font-size=\"82\">🌊</text></g><g id=\"p3\"><ellipse cx=\"220\" cy=\"461\" rx=\"105\" ry=\"10\" fill=\"#000\" fill-opacity=\".18\"/><rect x=\"115\" y=\"303\" width=\"210\" height=\"150\" rx=\"26\" fill=\"#3d9c3a\"/><rect x=\"115\" y=\"287\" width=\"210\" height=\"150\" rx=\"26\" fill=\"url(#gT2)\" stroke=\"#fff\" stroke-opacity=\".7\" stroke-width=\"3\"/><text x=\"220\" y=\"362\" text-anchor=\"middle\" dominant-baseline=\"central\" font-size=\"82\">👑</text></g><g id=\"p4\"><ellipse cx=\"580\" cy=\"461\" rx=\"105\" ry=\"10\" fill=\"#000\" fill-opacity=\".18\"/><rect x=\"475\" y=\"303\" width=\"210\" height=\"150\" rx=\"26\" fill=\"#d49b00\"/><rect x=\"475\" y=\"287\" width=\"210\" height=\"150\" rx=\"26\" fill=\"url(#gT3)\" stroke=\"#fff\" stroke-opacity=\".7\" stroke-width=\"3\"/><text x=\"580\" y=\"362\" text-anchor=\"middle\" dominant-baseline=\"central\" font-size=\"82\">⚙️</text></g></svg>",
+     "parts": [
+      {
+       "id": "p1",
+       "name": "Membrane",
+       "emoji": "🛡️",
+       "says_en": "I am the protective wall!",
+       "text_en": "A thin layer that surrounds the cell.",
+       "text_es": "Una capa delgada que rodea la célula como un escudo.",
+       "body_en": "It surrounds and protects the cell.",
+       "body_es": "Protege a la célula y la mantiene segura.",
+       "clue_en": "I am a thin layer that surrounds and protects."
+      },
+      {
+       "id": "p2",
+       "name": "Cytoplasm",
+       "emoji": "🌊",
+       "says_en": "I am a fun jelly sea!",
+       "text_en": "A jelly-like substance with water.",
+       "text_es": "Una sustancia gelatinosa hecha de agua.",
+       "body_en": "It contains the organelles inside.",
+       "body_es": "Mantiene todas las partes flotando en su lugar.",
+       "clue_en": "I am a jelly-like substance full of water."
+      },
+      {
+       "id": "p3",
+       "name": "Nucleus",
+       "emoji": "👑",
+       "says_en": "I am the boss!",
+       "text_en": "The brain that controls activities.",
+       "text_es": "El cerebro que controla todo.",
+       "body_en": "It controls the cell and has DNA.",
+       "body_es": "Da las órdenes y guarda el ADN.",
+       "clue_en": "I control the activities and contain the DNA."
+      },
+      {
+       "id": "p4",
+       "name": "Organelles",
+       "emoji": "⚙️",
+       "says_en": "We do tiny jobs!",
+       "text_en": "Tiny cellular structures with functions.",
+       "text_es": "Pequeñas estructuras con trabajos especiales.",
+       "body_en": "They perform specific functions in the cell.",
+       "body_es": "Trabajan duro para mantener viva la célula.",
+       "clue_en": "We are tiny structures that perform specific functions."
+      }
+     ],
+     "fixed": [],
+     "lbl": {},
+     "story": [
+      {
+       "part": "p1",
+       "en": "The membrane lets a friendly message in.",
+       "es": "La membrana deja entrar un mensaje amigable."
+      },
+      {
+       "part": "p2",
+       "en": "The message swims across the cytoplasm jelly.",
+       "es": "El mensaje nada a través de la gelatina del citoplasma."
+      },
+      {
+       "part": "p3",
+       "en": "The nucleus reads the DNA orders.",
+       "es": "El núcleo lee las órdenes del ADN."
+      },
+      {
+       "part": "p4",
+       "en": "The organelles do their special jobs to help.",
+       "es": "Los orgánulos hacen sus trabajos especiales para ayudar."
+      }
+     ],
+     "outro_es": "¡Así es como todas las partes de la célula trabajan juntas en equipo!"
+    }
+   }
+  }
+ },
+ "progress": {},
+ "plan": {
+  "1": {
+   "sections": [
+    "What are cells",
+    "Types of cells",
+    "Parts of a cell"
+   ],
+   "text": "## What are cells\nCells are the basic units of life.\nAll living things are made up of one or more cells and carry out three basic processes: Nutrition, Reproduction and interaction:\n- Nutrition: Living things need energy to stay alive. To obtain it, they eat different kinds of food.\n- Interaction: Living things detect changes in their environment and respond to them.\n- Reproduction: All living things are able to copy themselves in order to secure their DNA for the future.\nMost of them are very small, they can only be seen through a microscope but they still can differ in size.\nFor example, brain cells, known as neurons, are much bigger than red blood cells.\nCells can also differ in shape. They can be round, elongated, flat, star-shaped, etc.\nOur body is made up of different cells\n\n## Types of cells\nTypes of cells: Eukaryotic and Prokaryotic\n- Eukaryotic: It has a nucleus. The DNA (instructions for cells) is in the nucleus. Multicellular or unicellular organisms. Examples: animals and plants.\n- Prokaryotic: It doesn't have a nucleus. The DNA is floating in the cytoplasm. Unicellular organisms. Examples: bacteria.\n\n## Parts of a cell\n- Membrane: A thin layer that surrounds and protects the cell.\n- Nucleus: The nucleus controls the activities of the cell and contains the DNA.\n- Cytoplasm: A jelly-like substance, mostly made of water, that contains the organelles.\n- Organelles: An organelle is a tiny cellular structure that performs specific functions within a cell. Organelles are embedded within the cytoplasm. In more complex cells, organelles are often enclosed by their own membrane."
+  },
+  "2": {
+   "sections": [
+    "Organelles and their functions",
+    "Animal and plant cells"
+   ],
+   "text": "## Organelles and their functions\n- Organelle: Nucleus. Responsible for: Housing DNA, \"Brain\" of the cell.\n- Organelle: Mitochondria. Responsible for: Energy production, \"powerhouse\" of the cell.\n- Organelle: Golgi apparatus. Responsible for: Sorting, packaging and transport of proteins.\n- Organelle: Endoplasmic reticulum. Responsible for: Carries proteins through the cell.\n- Organelle: Chloroplast. Responsible for: Photosynthesis, only present in plants.\n- Organelle: Flagellum. Responsible for: Locomotion and sensory functions.\n- Organelle: Vacuole. Responsible for: Storage.\n- Organelle: Lysosome. Responsible for: Digestion of large molecules.\n- Organelle: Centrioles. Responsible for: Cell division.\n- Organelle: Ribosome. Responsible for: Makes proteins.\n\nParts of the cell: Mitochondria\nMitochondria receive the nutrients and oxygen, and it make the energy the cell needs.\n\nLysosomes\nThey get rid of waste material from the cell. They can also destroy bacteria and viruses.\n\nRibosomes\nRibosomes make proteins for the cells. Do you remember why proteins are important? They repair any damage caused.\n\nGolgi body\nIt sorts, packages and transports proteins inside and outside the cell. It is the Amazon of the cell.\n\nVacuole\nBefore the cell needs the nutrients, what happens with them? And where is the waste? They are in the vacuole. It is a place where the cell stores food, water, and waste.\n\n## Animal and plant cells\nBoth animal and plant cells have 3 main parts: Membrane, Nucleus and Cytoplasm (with organelles).\nAnimal and plant cells are different:\n- Plant cells have specialised organelles called chloroplasts.\n- Chloroplasts absorb sunlight and contain chlorophyll (which gives plants their green color).\n- Plant cells are usually larger and more regular in shape. Plant cells have a rigid cell wall.\n- Plant cells usually have only one big vacuole, while animal cells have many tiny vacuoles (called vesicles).\nPlant cell: Chloroplasts\nChloroplasts help plants carry out photosynthesis. Inside the chloroplasts, chlorophyll captures energy from sunlight.\n\nAnimal cells are mostly round and irregular in shape while plant cells have rectangular shapes.\nPlant cells have a rigid cell wall that surrounds the cell membrane and gives them their shape."
+  },
+  "3": {
+   "sections": [
+    "Living Things Organization",
+    "Exercise 5: Unit 1 Challenge"
+   ],
+   "text": "## Living Things Organization\nMulticellular living things are made up of different types of cells.\n\nCells: The cells work together at different levels.\n\nA tissue is a group of cells with a function.\n\nAn organ is a group of tissues with a common function.\n\nIn a unicellular living thing, such as a bacterium, there is only the first level of organization, the cell. This one cell has to carry out all the functions of the living thing.\n\nMulticellular living things are made up of different cells. These are called levels of organisation.\n\nTissues: Groups of the same type of cells join together to form tissues. Animals have muscle tissue, which consists of muscle cells. Plants have an epidermis - the tissue that covers leaves - which consists of epidermal cells.\n\nOrgans: Tissues join together to form organs. Tissues in organs work together to perform a common function. Muscles, bones, the heart and the lungs are animal organs. Leaves and flowers are plant organs.\n\nSystems: Organs are grouped to form systems. Organs in systems work together to perform a common function such as moving our body or obtaining the nutrients we need to live.\n\nOrganisms: Finally, all the different systems work together to form an organism, a living thing.\n\n## Exercise 5: Unit 1 Challenge\nA. Circle the correct answer.\n1. Which organelle controls the cell?\na) Ribosome\nb) Nucleus\nc) Vacuole\n\n2. Which organelle produces energy?\na) Mitochondria\nb) Golgi apparatus\nc) Lysosome\n\n3. Which cells have chloroplasts?\na) Animal cells\nb) Plant cells\nc) Blood cells\n\n4. Which organisms have only one cell?\na) Multicellular organisms\nb) Unicellular organisms\nc) Plants\n\n5. Which level comes after tissues?\na) Systems\nb) Organs\nc) Organism\n\nB. Write TRUE or FALSE.\n1. Animal cells have a cell wall.\n2. Plant cells have chloroplasts.\n3. Lysosomes remove waste.\n4. Ribosomes make proteins.\n5. Systems are made of organs.\n\nC. Write one sentence about each concept.\nCell:\nNucleus:\nPlant cell:\nOrganism:"
+  }
+ },
+ "base_ts": 1794915535.1612763,
+ "photos": {
+  "1": [
+   {
+    "jv": 3,
+    "scene": "Animal Cell",
+    "emoji": "🧫",
+    "story_es": "Érase una vez un viaje increíble al interior de una pequeña célula viva. Nuestra valiente aventurera recorre cada rincón para descubrir cómo funciona la vida.",
+    "traveler": "🚀",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 800 520\"><g id=\"bg\"><!--FIG--></g><g id=\"hz3\"><rect class=\"hl\" x=\"114.4\" y=\"189.5\" width=\"372.8\" height=\"194.5\" rx=\"58.4\" fill=\"#fff\" fill-opacity=\".01\" pointer-events=\"all\"/></g><g id=\"hz2\"><rect class=\"hl\" x=\"204.0\" y=\"380.6\" width=\"384.8\" height=\"120.1\" rx=\"36.0\" fill=\"#fff\" fill-opacity=\".01\" pointer-events=\"all\"/></g><g id=\"hz5\"><rect class=\"hl\" x=\"399.2\" y=\"208.9\" width=\"210.4\" height=\"149.8\" rx=\"44.9\" fill=\"#fff\" fill-opacity=\".01\" pointer-events=\"all\"/></g><g id=\"hz1\"><rect class=\"hl\" x=\"459.2\" y=\"100.5\" width=\"241.6\" height=\"84.1\" rx=\"25.2\" fill=\"#fff\" fill-opacity=\".01\" pointer-events=\"all\"/></g><g id=\"hz4\"><rect class=\"hl\" x=\"137.6\" y=\"180.2\" width=\"130.4\" height=\"71.5\" rx=\"21.4\" fill=\"#fff\" fill-opacity=\".01\" pointer-events=\"all\"/></g></svg>",
+    "parts": [
+     {
+      "id": "hz1",
+      "name": "Nucleus",
+      "emoji": "👑",
+      "says_en": "I am the brain and I keep the DNA safe!",
+      "text_en": "The nucleus is the control center of the cell.",
+      "text_es": "El núcleo es como el cerebro o la oficina del director que guarda todos los planos.",
+      "body_en": "It controls all activities and stores the cell instructions.",
+      "body_es": "Controla todas las actividades y guarda las instrucciones para que la célula funcione bien.",
+      "clue_en": "I am the big dome that holds the DNA."
+     },
+     {
+      "id": "hz2",
+      "name": "Membrane",
+      "emoji": "🛡️",
+      "says_en": "I protect the cell from danger outside!",
+      "text_en": "The membrane is a thin layer around the cell.",
+      "text_es": "La membrana es como la muralla de un castillo con puertas de seguridad.",
+      "body_en": "It surrounds and protects the cell from the outside.",
+      "body_es": "Rodea y protege la célula, decidiendo qué entra y qué sale.",
+      "clue_en": "I am the outer edge that protects everything."
+     },
+     {
+      "id": "hz3",
+      "name": "Cytoplasm",
+      "emoji": "🌊",
+      "says_en": "I am the jelly where everything floats!",
+      "text_en": "The cytoplasm is a jelly-like substance full of water.",
+      "text_es": "El citoplasma es como una piscina de gelatina transparente donde flotan las cosas.",
+      "body_en": "It holds all the tiny organelles in place.",
+      "body_es": "Mantiene todos los orgánulos en su sitio y permite que se muevan.",
+      "clue_en": "I am the dark jelly filling the cell space."
+     },
+     {
+      "id": "hz4",
+      "name": "Mitochondria",
+      "emoji": "⚡",
+      "says_en": "I make energy to keep us running!",
+      "text_en": "Mitochondria are tiny power plants inside the cell.",
+      "text_es": "La mitocondria es como una pequeña central eléctrica que da energía.",
+      "body_en": "They produce energy for all cell activities.",
+      "body_es": "Producen la energía necesaria para que la célula pueda trabajar.",
+      "clue_en": "I am the oval shape with a yellow zigzag inside."
+     },
+     {
+      "id": "hz5",
+      "name": "Organelles",
+      "emoji": "⚙️",
+      "says_en": "We do all the hard work here!",
+      "text_en": "Organelles are tiny structures that perform special tasks.",
+      "text_es": "Los orgánulos son como pequeñas herramientas y fábricas dentro de la célula.",
+      "body_en": "They help the cell live, grow and make things.",
+      "body_es": "Ayudan a que la célula realice todas sus funciones vitales.",
+      "clue_en": "We are the folded tubes and dots making things."
+     }
+    ],
+    "fixed": [],
+    "lbl": {
+     "hz3": [
+      244,
+      228
+     ],
+     "hz2": [
+      398,
+      451
+     ],
+     "hz5": [
+      498,
+      301
+     ],
+     "hz1": [
+      588,
+      136
+     ],
+     "hz4": [
+      190,
+      205
+     ]
+    },
+    "badge": true,
+    "story": [
+     {
+      "part": "hz2",
+      "en": "The traveler enters safely through the cell membrane.",
+      "es": "La viajera entra de forma segura a través de la membrana celular."
+     },
+     {
+      "part": "hz3",
+      "en": "She swims across the soft jelly cytoplasm.",
+      "es": "Nada a través del suave citoplasma en forma de gelatina."
+     },
+     {
+      "part": "hz1",
+      "en": "She visits the big nucleus to see the DNA plans.",
+      "es": "Visita el gran núcleo para ver los planos del ADN."
+     },
+     {
+      "part": "hz5",
+      "en": "She watches the busy organelles building proteins.",
+      "es": "Observa a los ocupados orgánulos construyendo proteínas."
+     },
+     {
+      "part": "hz4",
+      "en": "Finally, she gets a boost of energy from the mitochondria.",
+      "es": "Finalmente, recibe un impulso de energía de la mitocondria."
+     }
+    ],
+    "outro_es": "¡Así es como una célula trabaja unida como un gran equipo para mantenernos vivos!",
+    "photo": "1_1794915642229.svg",
+    "fw": 1465.6899,
+    "fh": 891.01001
+   },
+   {
+    "jv": 3,
+    "scene": "Animal Cell",
+    "emoji": "🧫",
+    "story_es": "Érase una vez una diminuta célula que trabajaba sin descanso para mantener la vida. Nuestro intrépido viajero salta al interior para descubrir sus secretos.",
+    "traveler": "🚗",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 800 520\"><g id=\"bg\"><!--FIG--></g><g id=\"hz2\"><rect class=\"hl\" x=\"160.8\" y=\"84.9\" width=\"620.8\" height=\"358.9\" rx=\"107.7\" fill=\"#fff\" fill-opacity=\".01\" pointer-events=\"all\"/></g><g id=\"hz3\"><rect class=\"hl\" x=\"275.2\" y=\"156.4\" width=\"255.2\" height=\"227.6\" rx=\"68.3\" fill=\"#fff\" fill-opacity=\".01\" pointer-events=\"all\"/></g><g id=\"hz1\"><rect class=\"hl\" x=\"477.6\" y=\"93.7\" width=\"105.6\" height=\"72.5\" rx=\"21.7\" fill=\"#fff\" fill-opacity=\".01\" pointer-events=\"all\"/></g><g id=\"hz4\"><rect class=\"hl\" x=\"177.6\" y=\"204.6\" width=\"110.4\" height=\"61.8\" rx=\"18.5\" fill=\"#fff\" fill-opacity=\".01\" pointer-events=\"all\"/></g></svg>",
+    "parts": [
+     {
+      "id": "hz1",
+      "name": "Nucleus",
+      "emoji": "👑",
+      "says_en": "I am the brain!",
+      "text_en": "The brain of the cell.",
+      "text_es": "El cerebro de la célula, como el jefe de una oficina.",
+      "body_en": "It controls everything and holds the DNA.",
+      "body_es": "Controla todas las actividades y guarda las instrucciones.",
+      "clue_en": "I control the cell and have the DNA.",
+      "clue_es": "Controlo la célula y tengo el ADN.",
+      "why_es": "Es la única parte que guarda los planos y mandatos principales."
+     },
+     {
+      "id": "hz2",
+      "name": "Membrane",
+      "emoji": "🛡️",
+      "says_en": "I protect you!",
+      "text_en": "A thin protective layer.",
+      "text_es": "Una capa delgada que rodea y cuida la célula.",
+      "body_en": "It surrounds the cell and keeps it safe.",
+      "body_es": "Protege el interior y deja entrar lo bueno.",
+      "clue_en": "I am a thin layer that surrounds the cell.",
+      "clue_es": "Soy una capa delgada que rodea la célula.",
+      "why_es": "Forma el muro exterior que delimita toda la estructura."
+     },
+     {
+      "id": "hz3",
+      "name": "Cytoplasm",
+      "emoji": "🌊",
+      "says_en": "I am jelly!",
+      "text_en": "A jelly-like liquid.",
+      "text_es": "Una sustancia gelatinosa llena de agua.",
+      "body_en": "It holds all the tiny parts inside.",
+      "body_es": "Mantiene los orgánulos flotando y ordenados.",
+      "clue_en": "I am a jelly-like substance full of water.",
+      "clue_es": "Soy una sustancia gelatinosa llena de agua.",
+      "why_es": "Rellena todo el espacio interior dando soporte."
+     },
+     {
+      "id": "hz4",
+      "name": "Mitochondria",
+      "emoji": "⚡",
+      "says_en": "I make power!",
+      "text_en": "The powerhouse of the cell.",
+      "text_es": "La central eléctrica que da energía.",
+      "body_en": "It gives energy for the cell to live.",
+      "body_es": "Produce la energía necesaria para moverse.",
+      "clue_en": "I give energy to the cell.",
+      "clue_es": "Doy energía a la célula.",
+      "why_es": "Tiene forma de central y genera la fuerza vital."
+     }
+    ],
+    "fixed": [],
+    "lbl": {
+     "hz2": [
+      519,
+      388
+     ],
+     "hz3": [
+      387,
+      270
+     ],
+     "hz1": [
+      538,
+      125
+     ],
+     "hz4": [
+      221,
+      228
+     ]
+    },
+    "badge": true,
+    "story": [
+     {
+      "part": "hz2",
+      "en": "The traveler crosses the membrane to enter the cell.",
+      "es": "El viajero cruza la membrana para entrar en la célula."
+     },
+     {
+      "part": "hz3",
+      "en": "He swims through the jelly cytoplasm.",
+      "es": "Nada a través del citoplasma gelatinoso."
+     },
+     {
+      "part": "hz1",
+      "en": "He visits the nucleus to read the DNA instructions.",
+      "es": "Visita el núcleo para leer las instrucciones del ADN."
+     },
+     {
+      "part": "hz4",
+      "en": "Finally, the mitochondria gives him energy to leave.",
+      "es": "Finalmente, la mitocondria le da energía para salir."
+     }
+    ],
+    "outro_es": "¡Así es como funciona esta maravillosa fábrica de vida!",
+    "photo": "1_1794938618146.svg",
+    "fw": 1465.6899,
+    "fh": 891.01001
+   }
+  ]
+ }
+}

@@ -1,0 +1,45 @@
+{
+  "kit": "none",
+  "scene": "Types of cells",
+  "emoji": "🦠",
+  "story_es": "Érase una vez un viaje increíble por el mundo de las células. ¡Vamos a ver las diferencias!",
+  "traveler": "🚗",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 520'><defs><linearGradient id='bg_grad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#e0f7fa'/><stop offset='100%' stop-color='#80deea'/></linearGradient><linearGradient id='eu_grad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#ab47bc'/><stop offset='100%' stop-color='#7b1fa2'/></linearGradient><linearGradient id='nuc_grad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#42a5f5'/><stop offset='100%' stop-color='#1565c0'/></linearGradient><linearGradient id='pro_grad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#66bb6a'/><stop offset='100%' stop-color='#2e7d32'/></linearGradient><linearGradient id='dna_grad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#ffca28'/><stop offset='100%' stop-color='#ff8f00'/></linearGradient></defs><g id='bg'><rect width='800' height='520' fill='url(#bg_grad)'/></g><g id='p1'><title>Eukaryotic cell</title><ellipse cx='230' cy='260' rx='140' ry='100' fill='url(#eu_grad)' stroke='#4a148c' stroke-width='4'/><circle cx='230' cy='260' r='45' fill='url(#nuc_grad)' stroke='#0d47a1' stroke-width='3'/><circle cx='215' cy='250' r='6' fill='#fff'/><circle cx='245' cy='270' r='6' fill='#fff'/></g><g id='p2'><title>Prokaryotic cell</title><rect x='500' y='180' rx='50' ry='50' width='220' height='160' fill='url(#pro_grad)' stroke='#1b5e20' stroke-width='4'/><path d='M 580 260 Q 610 230 640 260 T 700 260' fill='none' stroke='url(#dna_grad)' stroke-width='6' stroke-linecap='round'/></g></svg>",
+  "parts": [
+    {
+      "id": "p1",
+      "name": "Eukaryotic cell",
+      "emoji": "👑",
+      "says_en": "I have a safe room for my DNA!",
+      "text_en": "It is a cell with a nucleus.",
+      "text_es": "Es una célula que tiene un núcleo.",
+      "body_en": "It protects the DNA inside a nice room.",
+      "body_es": "Protege el ADN dentro de una habitación.",
+      "clue_en": "This big cell has a central room for instructions."
+    },
+    {
+      "id": "p2",
+      "name": "Prokaryotic cell",
+      "emoji": "🏃",
+      "says_en": "My instructions swim freely!",
+      "text_en": "It is a cell without a nucleus.",
+      "text_es": "Es una célula que no tiene núcleo.",
+      "body_en": "It is simple and small like a bacterium.",
+      "body_es": "Es simple y pequeña como una bacteria.",
+      "clue_en": "This cell has no room, its DNA floats around."
+    }
+  ],
+  "story": [
+    {
+      "part": "p1",
+      "en": "The Eukaryotic cell keeps its instructions safe in the nucleus.",
+      "es": "La célula eucariota guarda sus instrucciones seguras en el núcleo."
+    },
+    {
+      "part": "p2",
+      "en": "The Prokaryotic cell lets its DNA float in the cytoplasm.",
+      "es": "La célula procariota deja su ADN flotando en el citoplasma."
+    }
+  ],
+  "outro_es": "¡Ahora ya conoces los dos tipos de células!"
+}
